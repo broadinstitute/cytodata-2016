@@ -1,9 +1,9 @@
 -
   id: 100
-  title: "Arrival & Get-together"
+  title: "Online collaborative conversation"
   language: en
   service: true
-  description: "Grab some beer and food and get excited"
+  description: "All attendees will partake in an online collaborative conversation to map out the steps of a typical morphological profiling workflow. This will provide a basis for the hackathon."
 -
   id: 999
   title: "Hacking"

@@ -3,8 +3,8 @@
   <channel>
     <title>Cytomining in Action</title>
     <description>Cytomining Hackathon</description>
-    <link>https://broadinstitute.github.io/cytomining-hackathon//</link>
-    <atom:link href="https://broadinstitute.github.io/cytomining-hackathon//feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://hack.cytominr.org/</link>
+    <atom:link href="https://hack.cytominr.org/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
