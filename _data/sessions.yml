@@ -6,7 +6,14 @@
   description: "All attendees will partake in an online collaborative conversation to map out the steps of a typical morphological profiling workflow. This will provide a basis for the hackathon."
 -
   id: 999
-  title: "Hacking"
+  title: "Get to know the community"
   language: en
   service: true
-  description: "Thing out the box. Create what you want"
+  description: "Introductions, motivations, and personal goals"
+-
+  id: 998
+  title: "Learn from peers"
+  language: en
+  service: true
+  description: "Seminars and tutorials from and for attendees"
+"
