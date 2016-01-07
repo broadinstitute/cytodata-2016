@@ -5,12 +5,17 @@
     - {title: "Cytomining Hackathon", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "17:30",
-        endTime: "18:00",
-        sessionIds: [100,999]
+        startTime: "",
+        endTime: "",
+        sessionIds: [100]
     }
     - {
-        startTime: "18:30",
-        endTime: "19:30",
-        sessionIds: [100]
+        startTime: "",
+        endTime: "",
+        sessionIds: [100,999]
+      }
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [100,998]
       }
