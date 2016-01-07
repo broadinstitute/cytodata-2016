@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Cytomining in Action"
 email: "shsingh@broad.mit.edu"
 description: "Cytomining Hackathon"
-baseurl: "/cytomining-hackathon/"
-url: "https://broadinstitute.github.io"
+baseurl: ""
+url: "https://hack.cytominr.org"
 #permalink: "/blog/:title"
 
 # Organizer Info
@@ -55,7 +55,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> Hackathon"
-eventDate: "Date to be announced"
+eventDate: "TBA"
 typeoutTextValues: '"Cytomining", "Machine Learning", "Profiling", "Cell Imaging"'
 typeoutFallback: "Cytomining "
 heroButtons:
@@ -65,9 +65,9 @@ heroButtons:
 # About Block
 aboutTitle: "Cytomining in Action"
 aboutBlock:
- - {title: "Awesome topic", image: "conference.jpg", text: "The first ever Cytomining Hackathon. Attend, ask questions and have fun." }
- - {title: "Awesome people", image: "workshop.jpg", text: "It's a meetup. Meet and talk to awesome people and get things started. Of course drinks and snacks are for free!" }
- - {title: "Awesome hacks", image: "hackathon.jpg", text: "Get things done and change how cytomining is done" }
+ - {title: "Make history", image: "conference.jpg", text: "The first ever Cytomining Hackathon. Attend, ask questions and have fun." }
+ - {title: "Initiate collaboration", image: "workshop.jpg", text: "Identify novel methods, standards, and a basis for best practices" }
+ - {title: "Build the community", image: "hackathon.jpg", text: "Morphological profiling experts will join together for seminars, lectures, social events, and hacking" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -87,22 +87,22 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Broad Institute of MIT and Harvard"
-eventLocationLink: "http://broadinstitute.org"
-eventStreetAddress: "415 Main St"
-eventAddressLocality: "Cambridge"
+eventLocationName: "Hampton Inn and Suites Boston Crosstown Center"
+eventLocationLink: "http://bostonhamptoninn.com/"
+eventStreetAddress: "811 Massachusetts Avenue"
+eventAddressLocality: "Boston"
 eventAddressLocalityRegion: "MA"
-eventPostalCode: "02142"
+eventPostalCode: "02118"
 eventAddressCountry: "USA"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "42.3635146,-71.0910085"
-mapCenterCoordinates: "42.3635146,-71.0910085"
-mapMobileCenterCoordinates: "42.3635146,-71.0910085"
+eventPlaceCoordinates: "42.3325759,-71.0729888"
+mapCenterCoordinates: "42.3325759,-71.0729888"
+mapMobileCenterCoordinates: "42.3325759,-71.0729888"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Hampton Inn and Suites Boston Crosstown Center"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -112,7 +112,7 @@ venueFeatures: ["Beautiful room", "Free beer and sandwiches", "A lot of space"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Catch up and check in"
 twitterHashTag: "cytomining"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
@@ -243,15 +243,16 @@ directionDetailsImage: "direction-details.jpg"
 #      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
 #      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
-# Hackathon 
+# Hackathon
 hackathonTitle: "Hackathon"
 enableHackathon: false
 
 # Hackathon About Block
-aboutHackathonTitle: "Our topics"
+aboutHackathonTitle: "Goals"
 hackathonRows:
- - {title: "Cytomining", image: "hackathon-0.png", details: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."}
- - {title: "Profiling", image: "hackathon-1.png", details: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."}
+ - {title: "Our Mission", image: "hackathon-0.png", details: "To establish a set of best practices and standards to process and incorporate morphological profiling information into data repositories and analysis tools for cross-experiment/comparison. "}
+ - {title: "Our Plan", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited, including postdocs, students, and staff scientists. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies."}
+
 # Hackathon Judges Block (We dont need)
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
