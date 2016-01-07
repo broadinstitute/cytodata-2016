@@ -54,8 +54,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> Hackathon"
-eventDate: "TBA"
+heroTitle: "The 2016 <typeout> Hackathon"
+eventDate: ""
 typeoutTextValues: '"Cytomining", "Machine Learning", "Profiling", "Cell Imaging"'
 typeoutFallback: "Cytomining "
 heroButtons:

@@ -1,6 +1,6 @@
 -
   id: 100
-  title: "Online collaborative conversation"
+  title: "Prepare to Hack"
   language: en
   service: true
   description: "All attendees will partake in an online collaborative conversation to map out the steps of a typical morphological profiling workflow. This will provide a basis for the hackathon."
@@ -16,4 +16,33 @@
   language: en
   service: true
   description: "Seminars and tutorials from and for attendees"
-"
+-
+  id: 997
+  title: "Hack!"
+  language: en
+  service: true
+  description: "Groups will work through results, workflows, software tools, and code for specific steps of the previously determined workflow"
+-
+  id: 996
+  title: "Come together"
+  language: en
+  service: true
+  description: "Share knowledge and expertise, and, where possible, outline best practices"
+-
+  id: 995
+  title: "Create an impact"
+  language: en
+  service: true
+  description: "Document strengths, weaknesses, limitations, and appropriate usage of various alternatives at each step."
+-
+  id: 994
+  title: "Leave with a plan"
+  language: en
+  service: true
+  description: "Plan for community-driven open source toolboxes for the various steps of morphological profiling"
+-
+  id: 993
+  title: "Go forth and conquer!"
+  language: en
+  service: true
+  description: "We hope to leave with any of the following: a public wiki that outlines steps in a typical data analysis workflow for morphological profiling (complete with tips and tricks), compilation of test data sets and ground truth for testing methods, plans for community-driven open source toolboxes for the various steps of morphological profiling, code that demonstrates different analysis options, and/or plans for future events."
