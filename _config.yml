@@ -107,8 +107,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue__1.jpg"
 venueSmallImage2: "venue__2.jpg"
 venueSmallImage3: "venue__3.jpg"
-venueTitle: "TBA"
-venueFeatures: ["Beautiful room", "Free beer and sandwiches", "A lot of space"]
+venueTitle: 
+venueFeatures:
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
