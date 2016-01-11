@@ -103,11 +103,11 @@ mapMobileCenterCoordinates: "42.3325759,-71.0729888"
 
 # Venue Block
 venueBlockTitle: "Hampton Inn and Suites Boston Crosstown Center"
-venueBigImage: "venue_0.jpg"
+venueBigImage: "venue__1.jpg"
 venueSmallImage1: "venue__1.jpg"
 venueSmallImage2: "venue__2.jpg"
 venueSmallImage3: "venue__3.jpg"
-venueTitle: 
+venueTitle:
 venueFeatures:
 
 # Tweets Feed Block
