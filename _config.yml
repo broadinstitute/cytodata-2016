@@ -180,8 +180,7 @@ footerBlocks:
    - {link: "http://broadinstitute.org", text: "Broad Institute"}
  -
   title: "Contacts"
-  links:
-   - {link: "mailto:shsingh@broad.mit.edu", text: "Imaging Platform | Broad Institute"}
+
  # -
  #  title: "FAQ"
  #  links:
@@ -252,7 +251,9 @@ aboutHackathonTitle: "Goals"
 hackathonRows:
  - {title: "Our Mission", image: "hackathon-0.png", details: "To establish a set of best practices and standards to process and incorporate morphological profiling information into data repositories and analysis tools for cross-experiment/comparison. "}
  - {title: "Our Plan", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited, including postdocs, students, and staff scientists. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies."}
-
+links:
+ - {link: "mailto:shsingh@broad.mit.edu", text: "Imaging Platform | Broad Institute"}
+ 
 # Hackathon Judges Block (We dont need)
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
