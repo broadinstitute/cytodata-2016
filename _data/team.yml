@@ -6,12 +6,9 @@
   thumbnailUrl: broad.png
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: ""}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "site", link: "http://www.broadinstitute.org/~anne/research.html"}
 -
   id: 1
   name: "CellProfiler"
@@ -19,5 +16,7 @@
   title: "Broad Institute of MIT and Harvard"
   thumbnailUrl: anne_collab.jpg
   team: true
+  ribbon:
+    - {abbr: ""}
   social:
-    - {name: "CellProfiler", link: "http://www.cellprofiler.org"}
+    - {name: "site", link: "http://cellprofiler.org/impact.shtml"}
