@@ -107,7 +107,7 @@ venueBigImage: "venue__1.jpg"
 venueSmallImage1: "venue__2.jpg"
 venueSmallImage2: "venue__3.jpg"
 venueSmallImage3: "venue__3.jpg"
-venueTitle:
+venueTitle: "Located at 811 Massachusetts Ave, Boston, MA 02118"
 venueFeatures:
 
 # Tweets Feed Block
@@ -119,7 +119,7 @@ twitterHashTag: "cytomining"
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block (we dont need)
 subscribeImage: "subscribe.jpg"
@@ -196,7 +196,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The Carpenter Lab is based at the Broad Institute of MIT and Harvard in Cambridge, Massachusetts, USA. Our research group develops advanced methods and software tools to quantify and mine the rich information present in cellular images to yield biological discoveries. Our laboratory is best known for our open source software packages CellProfiler and CellProfiler Analyst, but our main focus these days is profiling: we are using advanced machine learning methods to identify morphological patterns in cell populations, to probe the causes and cures for disease."
+aboutUs: "The Carpenter lab at the Broad Institute is organizing the event. The Carpenter Lab is based at the Broad Institute of MIT and Harvard in Cambridge, Massachusetts, USA. Our research group develops advanced methods and software tools to quantify and mine the rich information present in cellular images to yield biological discoveries. Our laboratory is best known for our open source software packages CellProfiler and CellProfiler Analyst, but our main focus these days is profiling: we are using advanced machine learning methods to identify morphological patterns in cell populations, to probe the causes and cures for disease."
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
 findWayDistance: "Distance"
@@ -249,7 +249,7 @@ enableHackathon: false
 # Hackathon About Block
 aboutHackathonTitle: "Goals"
 hackathonRows:
- - {title: "Our Mission", image: "hackathon-0.png", details: "To establish a set of best practices and standards to process and incorporate morphological profiling information into data repositories and analysis tools for cross-experiment/comparison. "}
+ - {title: "Our Mission", image: "hackathon-0.png", details: "Researchers mining image data are gaining momentum: papers are shifting from proof-of-principle to biological discovery. But we are not yet much of a true community, beyond reading each others’ papers and a few pairwise interactions at conferences. We would like to change this by bringing everyone together in the same room! Collectively, we have tremendous knowledge and insights into this challenging field."}
  - {title: "Our Plan", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited, including postdocs, students, and staff scientists. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies."}
 links:
  - {link: "mailto:imagingadmin@broadinstitute.org", text: "Imaging Platform | Broad Institute"}
