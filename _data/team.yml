@@ -1,4 +1,3 @@
-
 -
   id: 0
   name: "Imaging Platform"
@@ -6,8 +5,13 @@
   title: "Broad Institute of MIT and Harvard"
   thumbnailUrl: broad.png
   team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "Carpenter Lab site", link: "http://www.broadinstitute.org/~anne/"}
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 1
   name: "CellProfiler"
