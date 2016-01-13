@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Cytomining in Action"
-email: "shsingh@broad.mit.edu"
+email: "imagingadmin@broadinstitute.org"
 description: "Cytomining Hackathon"
 baseurl: ""
 url: "https://hack.cytominr.org"
@@ -104,8 +104,8 @@ mapMobileCenterCoordinates: "42.3325759,-71.0729888"
 # Venue Block
 venueBlockTitle: "Hampton Inn and Suites Boston Crosstown Center"
 venueBigImage: "venue__1.jpg"
-venueSmallImage1: "venue__1.jpg"
-venueSmallImage2: "venue__2.jpg"
+venueSmallImage1: "venue__2.jpg"
+venueSmallImage2: "venue__3.jpg"
 venueSmallImage3: "venue__3.jpg"
 venueTitle:
 venueFeatures:
@@ -210,37 +210,37 @@ logisticsMapMobileCenterCoordinates: "48.1506177,11.5470593"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-# directionDetailsTitle: "Get around Munich"
-# directionDetailsCards:
-#  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
-#  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
-#  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-# directionDetailsWideCards:
-#  -
-#   title: "Questions?"
-#   subCards:
-#    -
-#     title: "Hotels"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Registration"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#    -
-#     title: "Attendance Details"
-#     links:
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+directionDetailsImage: "hero.jpg"
+directionDetailsTitle: "Get to the hackathon"
+directionDetailsCards:
+ - {title: "Logan Airport", information: 'The closest airport is Boston Logan Airport (BOS). The site of the hackathon offers a free shuttle from BOS to the hotel. Other airports are Manchester, NH (MHT, 1 hr drive) and Providence (PVD, 1 hr drive).'}
+ - {title: "Public Transport", information: 'The Boston MBTA Silver line can also bring you from the airport (SL1, <a href="http://www.mbta.com/schedules_and_maps/bus/routes/?route=SL1">Terminals A-E</a>) to the hotel (SL4, <a href="http://www.mbta.com/schedules_and_maps/subway/lines/stations/?stopId=24642&lat=42.332709&lng=-71.081205">Melena Cass Boulevard Station</a>), via <a href="http://www.mbta.com/schedules_and_maps/subway/lines/stations/?stopId=14435&lat=42.352614&lng=-71.055364">South Station</a>.'}
+ - {title: "Ground Transport", information: 'If you choose to drive, the hotel offers a parking lot for $25.00/day'}
+directionDetailsWideCards:
+ -
+  #title: "Questions?"
+  #subCards:
+   #-
+    #title: "Hotels"
+    #links:
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   #-
+    #title: "Registration"
+    #links:
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   #-
+    #title: "Attendance Details"
+    #links:
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
@@ -252,8 +252,8 @@ hackathonRows:
  - {title: "Our Mission", image: "hackathon-0.png", details: "To establish a set of best practices and standards to process and incorporate morphological profiling information into data repositories and analysis tools for cross-experiment/comparison. "}
  - {title: "Our Plan", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited, including postdocs, students, and staff scientists. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies."}
 links:
- - {link: "mailto:shsingh@broad.mit.edu", text: "Imaging Platform | Broad Institute"}
- 
+ - {link: "mailto:imagingadmin@broadinstitute.org", text: "Imaging Platform | Broad Institute"}
+
 # Hackathon Judges Block (We dont need)
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"
