@@ -43,10 +43,10 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -54,8 +54,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "The 2016 <typeout> Hackathon"
-eventDate: "Date: TBD<br> Boston, Ma"
+heroTitle: "<typeout> Hackathon"
+eventDate: "<h4>TBA 2016</h4>"
 typeoutTextValues: '"Cytomining", "Machine Learning", "Profiling", "Cell Imaging"'
 typeoutFallback: "Cytomining "
 heroButtons:
@@ -211,7 +211,7 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "hero.jpg"
-directionDetailsTitle: "Get to the hackathon"
+directionDetailsTitle: "Logistics <br> <br><p style='font-size:25px'><b>Hampton Inn and Suites Boston Crosstown Center</b> located at 811 Massachusetts Ave, Boston, MA 02118</p>"
 directionDetailsCards:
  - {title: "Logan Airport", information: 'The closest airport is Boston Logan Airport (BOS). The site of the hackathon offers a free shuttle from BOS to the hotel. Other airports are Manchester, NH (MHT, 1 hr drive) and Providence (PVD, 1 hr drive).'}
  - {title: "Public Transport", information: 'The Boston MBTA Silver line can also bring you from the airport (SL1, <a href="http://www.mbta.com/schedules_and_maps/bus/routes/?route=SL1">Terminals A-E</a>) to the hotel (SL4, <a href="http://www.mbta.com/schedules_and_maps/subway/lines/stations/?stopId=24642&lat=42.332709&lng=-71.081205">Melena Cass Boulevard Station</a>), via <a href="http://www.mbta.com/schedules_and_maps/subway/lines/stations/?stopId=14435&lat=42.352614&lng=-71.055364">South Station</a>.'}
@@ -247,10 +247,10 @@ hackathonTitle: "Hackathon"
 enableHackathon: false
 
 # Hackathon About Block
-aboutHackathonTitle: "Goals"
+aboutHackathonTitle: "Why should you attend?"
 hackathonRows:
- - {title: "Our Mission", image: "hackathon-0.png", details: "Researchers mining image data are gaining momentum: papers are shifting from proof-of-principle to biological discovery. But we are not yet much of a true community, beyond reading each others’ papers and a few pairwise interactions at conferences. We would like to change this by bringing everyone together in the same room! Collectively, we have tremendous knowledge and insights into this challenging field."}
- - {title: "Our Plan", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited, including postdocs, students, and staff scientists. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies."}
+ - {title: "", image: "hackathon-0.png", details: "Researchers mining image data are gaining momentum: papers are shifting from proof-of-principle to biological discovery. But we are not yet much of a true community, beyond reading each others’ papers and a few pairwise interactions at conferences. We would like to change this by bringing everyone together in the same room! Collectively, we have tremendous knowledge and insights into this challenging field."}
+ - {title: "", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited, including postdocs, students, and staff scientists. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies."}
 links:
  - {link: "mailto:imagingadmin@broadinstitute.org", text: "Imaging Platform | Broad Institute"}
 
