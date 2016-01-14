@@ -3,13 +3,7 @@
   title: "Prepare to Hack"
   language: en
   service: true
-  description: "All attendees will partake in an < href="http://broadinstitute.github.io/cytomining-hackathon/">online collaborative conversation</a> to map out the steps of a typical morphological profiling workflow. This will provide a basis for the hackathon."
--
-  id: 992
-  title: "Day before hackathon"
-  language: en
-  service: true
-  description: "Those arriving in town early can spend the afternoon seeing Boston with other participants"
+  description: "All attendees will partake in an online collaborative conversation to map out the steps of a typical morphological profiling workflow. This will provide a basis for the hackathon."
 -
   id: 999
   title: "Get to know the community"
@@ -52,3 +46,9 @@
   language: en
   service: true
   description: "We hope to leave with any of the following: a public wiki that outlines steps in a typical data analysis workflow for morphological profiling (complete with tips and tricks), compilation of test data sets and ground truth for testing methods, plans for community-driven open source toolboxes for the various steps of morphological profiling, code that demonstrates different analysis options, and/or plans for future events."
+-
+  id: 992
+  title: "Day before hackathon"
+  language: en
+  service: true
+  description: "Those arriving in town early can spend the afternoon seeing Boston with other participants"
