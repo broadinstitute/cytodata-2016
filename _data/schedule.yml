@@ -1,48 +1,50 @@
 -
-  date: ""
-  dateReadable: ""
+  date: "Preview of Program"
+  dateReadable: "Leading up to the hackathon"
   tracks:
-    - {title: "Schedule", color: "#90be4e"}
+    - {title: "Cytomining Hackathon", color: "#90be4e"}
   timeslots:
     - {
         startTime: "",
         endTime: "",
         sessionIds: [100]
     }
+-
+  date: "Preview of Program"
+  dateReadable: "Day before hackathon"
+  tracks:
+    - {title: "Cytomining Hackathon", color: "#90be4e"}
+  timeslots:
     - {
         startTime: "",
         endTime: "",
-        sessionIds: [2]
+        sessionIds: [992]
     }
+-
+
+    date: "Preview of Program"
+    dateReadable: "Preview of Program"
+    tracks:
+      - {title: "Cytomining Hackathon", color: "#90be4e"}
+    timeslots:
     - {
         startTime: "",
         endTime: "",
-        sessionIds: [3]
-    }
-# -
-#     date: "Preview of Program"
-#     dateReadable: "Preview of Program"
-#     tracks:
-#       - {title: "Cytomining Hackathon", color: "#90be4e"}
-#     timeslots:
-#     - {
-#         startTime: "",
-#         endTime: "",
-#         sessionIds: [997, 998, 999]
-#       }
-#     - {
-#         startTime: "",
-#         endTime: "",
-#         sessionIds: [996, 995, 994]
-#       }
-# -
-#     date: "Preview of Program"
-#     dateReadable: "After the hackathon"
-#     tracks:
-#       - {title: "Cytomining Hackathon", color: "#90be4e"}
-#     timeslots:
-#     - {
-#         startTime: "",
-#         endTime: "",
-#         sessionIds: [993]
-#       }
+        sessionIds: [997, 998, 999]
+      }
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [996, 995, 994]
+      }
+  -
+    date: "Preview of Program"
+    dateReadable: "After the hackathon"
+    tracks:
+      - {title: "Cytomining Hackathon", color: "#90be4e"}
+    timeslots:
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [993]
+      }
