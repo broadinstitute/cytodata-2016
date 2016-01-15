@@ -1,22 +1,11 @@
 -
   id: 0
-  name: "Imaging Platform"
+  name: "Carpenter lab"
   surname: ""
   title: "Broad Institute of MIT and Harvard"
-  thumbnailUrl: broad.png
+  thumbnailUrl: team.png
   team: true
   ribbon:
-    - {abbr: ""}
+    - {abbr: "Carpenter", title: "Carpenter Lab"}
   social:
     - {name: "site", link: "http://www.broadinstitute.org/~anne/research.html"}
--
-  id: 1
-  name: "CellProfiler"
-  surname: ""
-  title: "Broad Institute of MIT and Harvard"
-  thumbnailUrl: anne_collab.jpg
-  team: true
-  ribbon:
-    - {abbr: ""}
-  social:
-    - {name: "site", link: "http://cellprofiler.org/impact.shtml"}
