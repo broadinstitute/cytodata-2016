@@ -12,6 +12,11 @@
     - {
         startTime: "",
         endTime: "",
+        sessionIds: [4]
+    }
+    - {
+        startTime: "Date TBD",
+        endTime: "",
         sessionIds: [2]
     }
     - {
