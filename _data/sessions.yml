@@ -5,6 +5,18 @@
   service: true
   description: "All attendees will partake in an online collaborative conversation to map out the steps of a typical morphological profiling workflow. This will provide a basis for the hackathon."
 -
+  id: 2
+  title: "Hackathon"
+  language: en
+  service: true
+  description: "<ul><li><b>Get to know the community</b>: Introductions, motivations, and personal goals </li><li><b>Learn from peers</b>: Seminars and tutorials from and for attendees including Jake Jaffe for P100, PRISM, TumorPlex, LINCS/C-Map </li><li><b>Hack!</b>: Groups will work through results, workflows, software tools, and code for specific steps of the previously determined workflow </li><li><b>Come together</b>: Share knowledge and expertise, and, where possible, outline best practices </li><li><b>Create an impact</b>: Document strengths, weaknesses, limitations, and appropriate usage of various alternatives at each step. </li><li><b>Leave with a plan</b>: Plan for community-driven open source toolboxes for the various steps of morphological profiling</li></ul>"
+-
+  id: 3
+  title: "After the hackathon"
+  language: en
+  service: true
+  description: "We hope to leave with any of the following: <ul><li><b>public wiki</b> that outlines steps in a typical data analysis workflow for morphological profiling (complete with tips and tricks) <li>compilation of <b>test data sets</b> and ground truth for testing methods <li><b>plans for community-driven open source toolboxes</b> for the various steps of morphological profiling <li><b>code</b> that demonstrates different analysis options <li><b>plans</b> for future events</ul>"
+-  
   id: 999
   title: "Get to know the community"
   language: en
@@ -15,13 +27,13 @@
   title: "Learn from peers"
   language: en
   service: true
-  description: "Seminars and tutorials from and for attendees including experts in gene expression and proteome profiling”"
+  description: "Seminars and tutorials from and for attendees including Jake Jaffe for P100, PRISM, TumorPlex, LINCS/C-Map"
 -
   id: 997
   title: "Hack!"
   language: en
   service: true
-  description: "Groups will work through results, workflows, software tools, and code for specific steps of the workflow"
+  description: "Groups will work through results, workflows, software tools, and code for specific steps of the previously determined workflow"
 -
   id: 996
   title: "Come together"
@@ -46,9 +58,3 @@
   language: en
   service: true
   description: "We hope to leave with any of the following: a public wiki that outlines steps in a typical data analysis workflow for morphological profiling (complete with tips and tricks), compilation of test data sets and ground truth for testing methods, plans for community-driven open source toolboxes for the various steps of morphological profiling, code that demonstrates different analysis options, and/or plans for future events."
--
-  id: 992
-  title: "Day before hackathon"
-  language: en
-  service: true
-  description: "Those arriving in town early can spend the afternoon seeing Boston with other participants"
