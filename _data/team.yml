@@ -5,7 +5,5 @@
   title: "Broad Institute of MIT and Harvard"
   thumbnailUrl: team.png
   team: true
-  ribbon:
-    - {abbr: "Carpenter", title: "Carpenter Lab"}
   social:
     - {name: "site", link: "http://www.broadinstitute.org/~anne/research.html"}
