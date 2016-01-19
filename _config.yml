@@ -43,8 +43,8 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "#direction-details", text: "Logistics"}
  - {permalink: "#schedule", text: "Schedule"}
+ - {permalink: "#direction-details", text: "Logistics"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "#team", text: "Organizers"}
 bottomNavigationLinks:
