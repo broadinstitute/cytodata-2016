@@ -59,7 +59,7 @@ eventDate: "<h4>Boston, MA<br>TBA 2016</h4>"
 typeoutTextValues: '"Morphological profiling", "Cytomining"'
 typeoutFallback: "Cytomining "
 heroButtons:
- - {link: "https://github.com/broadinstitute/cytomining-hackathon/wiki", text: "Join the public conversation on GitHub"}
+ #- {link: "https://github.com/broadinstitute/cytomining-hackathon/wiki", text: "Join the public conversation on GitHub"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -252,7 +252,7 @@ enableHackathon: false
 aboutHackathonTitle: "Why should you attend?"
 hackathonRows:
  - {title: "", image: "unnamed.gif", details: "Researchers mining image data are gaining momentum: papers are shifting from proof-of-principle to biological discovery. But we are not yet much of a true community, beyond reading each others’ papers and a few pairwise interactions at conferences. We would like to change this by bringing everyone together in the same room! Collectively, we have tremendous knowledge and insights into this challenging field."}
- - {title: "", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited to this first-ever hackathon, including postdocs, students, and staff scientists. In weeks leading up to the event, participants will join in a public discussion on Github, mapping out options for analysis at various steps in the workflow. Attendees will then join together for seminars, lectures, social events, and hacking during a two-day event in Boston. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies. Everyone involved will be an active contributor (even if remote), no passive absorption of others’ ideas allowed!"}
+ - {title: "", image: "hackathon-1.png", details: "Twenty participants from the front lines of analyzing morphological data will be invited to this first-ever hackathon, including postdocs, students, and staff scientists. In weeks leading up to the event, participants will join in a <a href='https://github.com/broadinstitute/cytomining-hackathon/wiki'>public discussion on Github</a>, mapping out options for analysis at various steps in the workflow. Attendees will then join together for seminars, lectures, social events, and hacking during a two-day event in Boston. We aspire to gather a diverse and engaged group of both morphological profiling experts and members of related fields, such as alternate profiling methodologies. Everyone involved will be an active contributor (even if remote), no passive absorption of others’ ideas allowed!"}
 links:
  - {link: "mailto:imagingadmin@broadinstitute.org", text: "Imaging Platform | Broad Institute"}
 
