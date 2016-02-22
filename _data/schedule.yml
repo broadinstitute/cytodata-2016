@@ -10,12 +10,12 @@
         sessionIds: [100]
     }
     - {
-        startTime: "<center><p>May 10, 2016</p></center>",
+        startTime: "<center><p>Tuesday, May 10, 2016</p></center>",
         endTime: "",
         sessionIds: [4]
     }
     - {
-        startTime: "<center><p>May 11-12, 2016</p></center>",
+        startTime: "<center><p>Wednesday, May 11 - Thursday, May 12, 2016</p></center>",
         endTime: "",
         sessionIds: [2]
     }
