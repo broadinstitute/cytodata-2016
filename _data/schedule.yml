@@ -1,5 +1,5 @@
 -
-  date: ""
+  date: "May 11-13, 2016"
   dateReadable: ""
   tracks:
     - {title: "Schedule", color: "#90be4e"}
@@ -10,12 +10,12 @@
         sessionIds: [100]
     }
     - {
-        startTime: "",
+        startTime: "May 11, 2016",
         endTime: "",
         sessionIds: [4]
     }
     - {
-        startTime: "<center><p>2 days<br>Date TBD</p></center>",
+        startTime: "<center><p>May 12-13, 2016</p></center>",
         endTime: "",
         sessionIds: [2]
     }
