@@ -102,12 +102,12 @@ mapCenterCoordinates: "42.3325759,-71.0729888"
 mapMobileCenterCoordinates: "42.3325759,-71.0729888"
 
 # Venue Block
-venueBlockTitle: "Hampton Inn and Suites Boston Crosstown Center"
+venueBlockTitle: "AC Hotel Boston North"
 venueBigImage: "venue__1.jpg"
 venueSmallImage1: "venue__2.jpg"
 venueSmallImage2: "venue__3.jpg"
 venueSmallImage3: "venue__3.jpg"
-venueTitle: "Located at 811 Massachusetts Ave, Boston, MA 02118"
+venueTitle: "Located at 95 Station Landing, Medford, MA 02155"
 venueFeatures:
 
 # Tweets Feed Block
