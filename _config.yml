@@ -55,7 +55,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "schedule.jpg"
 heroTitle: "<typeout> Hackathon"
-eventDate: "<h4>Boston, MA<br>TBA 2016</h4>"
+eventDate: "<h4>Boston, MA<br>May 11-13, 2016</h4>"
 typeoutTextValues: '"Morphological profiling", "Cytomining"'
 typeoutFallback: "Cytomining "
 heroButtons:
