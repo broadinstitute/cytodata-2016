@@ -10,7 +10,7 @@
         sessionIds: [100]
     }
     - {
-        startTime: "<center><p>Tuesday, May 10, 2016</p></center>",
+        startTime: "<center><p>Tuesday, May 10, 2016<br>1:00pm</p></center>",
         endTime: "",
         sessionIds: [4]
     }
