@@ -216,7 +216,7 @@ directionDetailsImage: "hero.jpg"
 directionDetailsTitle: "Logistics"
 directionDetailsCards:
  - {title: "Funding", information: 'Meeting room and group meals will be covered by the organizers/funders. Each participant should plan to finance their own travel and lodging (exception: some support can be provided for attendees from under-represented groups; please <a href="mailto:imagingadmin@broadinstitute.org?Subject=Hackathon%20Inquiry">contact us</a>). Please note that space is limited in order to maintain high levels of engagement. '}
- - {title: "Lodging", information: 'We have obtained a limited number of hotel rooms at <a href="http://hotelsincambridgema.h.bestwestern.com/">Hotel Tria</a> in Cambridge, Ma for $199/night. To book, may make reservations by calling the Best Western Plus Hotel Tria at (617) 491-8000 and referencing the Broad Intitute Room Block. ' }
+ - {title: "Lodging", information: 'We have obtained a limited number of hotel rooms at <a href="http://hotelsincambridgema.h.bestwestern.com/">Hotel Tria</a> in Cambridge, Ma for $199/night. To make reservations, call the Best Western Plus Hotel Tria at (617) 491-8000 and reference the Broad Institute Room Block. ' }
  - {title: "Transportation", information: 'The closest airport is <a href="https://www.massport.com/logan-airport/">Boston Logan Airport</a> (BOS). Hotel Tria offers a shuttle to Harvard Square, which is a 25 minute walk to the Broad Institute. The Broad Institute is accessible by the MBTA red line at the Kendall/MIT stop. The red line has a stop called Harvard in Harvard Square and a stop called Alewife .5 miles from Hotel Tria. '}
 directionDetailsWideCards:
  -
