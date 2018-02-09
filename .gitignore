@@ -1,1 +1,4 @@
 *~
+_sass/
+_site/
+.DS_Store
