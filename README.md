@@ -1,1 +1,1 @@
-# cytomining-hackathon
+# CytoData 2016 website
